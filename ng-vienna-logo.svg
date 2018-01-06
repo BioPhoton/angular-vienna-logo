@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Angular-Shield" serif:id="Angular Shield">
+        <path id="Left" d="M125.759,30.27L125.759,229.58L125,230L46.1,186.3L31.9,63.2L125,30L125.759,30.27Z" style="fill:rgb(221,0,49);"/>
+        <g id="Right" transform="matrix(1,0,0,1,0.758533,0.0227553)">
+            <path d="M125,30L125,52.2L125,52.1L125,230L203.9,186.3L218.1,63.2L125,30Z" style="fill:rgb(195,0,47);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g id="Vienniese-Cross" serif:id="Vienniese Cross">
+        <path id="Left1" serif:id="Left" d="M125.759,30.27L125.759,229.58L125,230L112.19,222.905L112.19,143.674L41.183,143.674L38.091,116.872L112.19,116.872L112.19,34.568L125,30L125.759,30.27Z" style="fill:white;"/>
+        <path id="Right1" serif:id="Right" d="M138.992,34.742L138.992,116.872L212.67,116.872L209.578,143.674L138.992,143.674L138.992,222.693L125.759,230.023L125.759,30.023L138.992,34.742Z" style="fill:rgb(245,208,208);"/>
+    </g>
+</svg>
